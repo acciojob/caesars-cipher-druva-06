@@ -1,5 +1,3 @@
-// Your Script here.
-
 const lookup = {
   A: "N",
   B: "O",
